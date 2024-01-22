@@ -1,13 +1,12 @@
-import Link from "next/link";
+export const metadata = {
+    title: 'Nosotros',
+    description: "Sitio web dedicado a la venta de guitarras",
+}
 
 export default function NosotrosPage() {
     return (
-        <>
-            <div>page</div>
-
-            <Link href="/">
-                Home
-            </Link>
-        </>
+        <section>
+            <h1>Nosotros</h1>
+        </section>
     )
 }
