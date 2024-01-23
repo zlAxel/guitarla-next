@@ -11,12 +11,12 @@ const links = [
         label: "Home"
     },
     {
-        href: "/nosotros",
-        label: "Nosotros"
-    },
-    {
         href: "/tienda",
         label: "Tienda"
+    },
+    {
+        href: "/nosotros",
+        label: "Nosotros"
     },
     {
         href: "/blog",

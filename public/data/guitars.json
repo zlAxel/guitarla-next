@@ -1,0 +1,109 @@
+{
+    "guitarras": [
+      {
+        "id": 1,
+        "nombre": "Guitarra Acústica Fender",
+        "descripcion": "Una descripción detallada de la guitarra acústica Fender.",
+        "precio": 1200,
+        "imagen": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ12C9fPh2xaFVXcLHAAgTtWAMBivcEBikpEtf0SGCbrZnCSch9vaaJjRSRzyFFq7u-dkPpxYWNv7zzHTjHs1miys0e0ODUCOhDYOhIzLtGroOWr7m3b0ie&usqp=CAE"
+      },
+      {
+        "id": 2,
+        "nombre": "Guitarra Eléctrica Gibson",
+        "descripcion": "Una descripción detallada de la guitarra eléctrica Gibson.",
+        "precio": 1500,
+        "imagen": "https://lh3.googleusercontent.com/proxy/e9Dlu5pMTZOF9irxMj3TguJqDW5r_p3wmhklPWhnZblyVnRkPlcKCBHm2z1g1JIOCwwquNJmHho9q9Bi4n9IrBJnJ3ZRmtAPZZa9D6LaG_tWwcs9-656pVC_HNiZAd5nYtXlpvIsSv4cbvGqdZj4W5Yr9pJoBySY8h7tJ0qbsevWePmwn1mv"
+      },
+      {
+        "id": 3,
+        "nombre": "Guitarra Eléctrica Yamaha",
+        "descripcion": "Perfecta para principiantes y profesionales.",
+        "precio": 900,
+        "imagen": "https://ss631.liverpool.com.mx/xl/1100357361.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Guitarra Clásica Rodríguez",
+        "descripcion": "Sonido cálido ideal para piezas clásicas.",
+        "precio": 800,
+        "imagen": "https://m.media-amazon.com/images/I/61ybL4ZAZ4L._AC_SY879_.jpg"
+      },
+      {
+        "id": 5,
+        "nombre": "Guitarra Acústica Taylor",
+        "descripcion": "Excelente proyección y tono claro.",
+        "precio": 1100,
+        "imagen": "https://therocklab.mx/cdn/shop/products/Taylor-BT2-e-Mah-fr-2017copy_1200x1200.png?v=1630600703"
+      },
+      {
+        "id": 6,
+        "nombre": "Guitarra Flamenca Cordoba",
+        "descripcion": "Diseño ligero y respuesta rápida.",
+        "precio": 950,
+        "imagen": "https://m.media-amazon.com/images/I/51iboF-v98L.jpg"
+      },
+      {
+        "id": 7,
+        "nombre": "Guitarra Eléctrica Ibanez",
+        "descripcion": "Versatilidad para cualquier género musical.",
+        "precio": 1300,
+        "imagen": "https://www.mrcdinstrumentos.com.mx/shared/productos/14220/8202662-1.jpg"
+      },
+      {
+        "id": 8,
+        "nombre": "Guitarra Electroacústica Martin",
+        "descripcion": "Combinación perfecta de tradición y tecnología.",
+        "precio": 1400,
+        "imagen": "https://martinguitarmexico.com/wp-content/uploads/2021/02/GPC-11-E-frente.jpg"
+      },
+      {
+        "id": 9,
+        "nombre": "Guitarra Acústica Epiphone",
+        "descripcion": "Gran durabilidad y sonido excepcional.",
+        "precio": 700,
+        "imagen": "https://m.media-amazon.com/images/I/61WJYCwtGJL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 10,
+        "nombre": "Guitarra Eléctrica Fender Stratocaster",
+        "descripcion": "Un ícono del rock and roll.",
+        "precio": 1600,
+        "imagen": "https://www.unionmusical.es/media/catalog/product/6/1/617237_1_4804.jpg"
+      },
+      {
+        "id": 11,
+        "nombre": "Guitarra Clásica Alhambra",
+        "descripcion": "Calidad artesanal española.",
+        "precio": 1200,
+        "imagen": "https://m.media-amazon.com/images/I/61ybL4ZAZ4L._AC_SY879_.jpg"
+      },
+      {
+        "id": 12,
+        "nombre": "Guitarra Eléctrica PRS",
+        "descripcion": "Alta gama en versatilidad y estética.",
+        "precio": 2500,
+        "imagen": "https://www.falymusic.com/images/detailed/60/108116-5=vc_108116-vc-2.jpg"
+      },
+      {
+        "id": 13,
+        "nombre": "Guitarra Acústica Gretsch",
+        "descripcion": "Voz rica y plena con excelente resonancia.",
+        "precio": 950,
+        "imagen": "https://abonitos.mx/cdn/shop/products/D_947462-MLA43654546955_102020-O.webp?v=1673060196"
+      },
+      {
+        "id": 14,
+        "nombre": "Guitarra Eléctrica Jackson",
+        "descripcion": "Para los amantes del metal.",
+        "precio": 1700,
+        "imagen": "https://ss631.liverpool.com.mx/xl/1112693081.jpg"
+      },
+      {
+        "id": 15,
+        "nombre": "Guitarra Acústica Guild",
+        "descripcion": "Tono cálido y equilibrado, ideal para jazz.",
+        "precio": 1150,
+        "imagen": "https://www.mrcdinstrumentos.com.mx/shared/productos/21515/ISGULD140.jpg"
+      }
+    ]
+}
