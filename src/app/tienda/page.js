@@ -1,4 +1,6 @@
-import ListadoGuitarras from "./components/listado-guitarras"
+import { getGuitars } from "../lib/data";
+import Guitarra from "./components/guitarra"
+import styles from '../../styles/grid.module.css';
 
 export const metadata = {
     title: 'Tienda',
@@ -11,17 +13,11 @@ export default async function TiendaPage() {
         <main className="contenedor">
             <h1 className="heading">Nuestra Colección</h1>
 
-            <ListadoGuitarras guitarras={guitarras} />
+            <div className={styles.grid}>
+                { guitarras?.map((guitarra) => (
+                    <Guitarra key={guitarra.id} guitarra={guitarra} />
+                ))}
+            </div>
         </main>
     )
 }
-
-async function getGuitars() {
-    let respuesta = await fetch('http://localhost:3000/api/guitars');
-    respuesta = await respuesta.json();
-    respuesta = respuesta.guitarras;
-
-    if( ! respuesta ) throw new Error(respuesta.statusText);
-
-    return respuesta;
-};
